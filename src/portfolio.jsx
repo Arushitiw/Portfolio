@@ -129,7 +129,7 @@ section{padding:100px 56px;}
 .slbl{font-size:10px;font-weight:700;letter-spacing:3px;text-transform:uppercase;
   color:var(--gold);margin-bottom:8px;}
 .stitle{font-family:'Fraunces',serif;font-size:clamp(28px,3.5vw,44px);font-weight:700;
-  line-height:1.1;letter-spacing:-1px;}
+  line-height:1.1;letter-spacing:-1px;color:var(--cream);}
 .stitle em{font-style:italic;font-weight:300;color:var(--text-secondary);}
 
 /* TIMELINE */
